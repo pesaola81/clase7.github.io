@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 300px 300px 300px;
+    display: none;
+   
+}
+.caja1{
+    background-color: blueviolet;
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    
+
+
+    
+   
+
+}
+.caja2{
+    background-color: chartreuse;
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    
+   
+}
+.caja3{
+    background-color: deepskyblue;
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+   
+}
+.box2{
+    display: grid;
+    grid-template-columns: 768px 768px;
+    grid-template-rows: 321px 321px 321px;
+    display: none;
+    
+}
+.caja4{
+    background-color: rgb(255, 145, 0);
+    border: 2px solid black;
+   margin: 5px;
+}
+   .caja5{
+    background-color: #88ff00;
+    border: 2px solid black;
+    margin: 5px;
+   }
+   .caja6{
+    background-color: hsl(135, 100%, 50%);
+    border: 2px solid black;
+    margin: 5px;
+
+   }
+
+.caja7{
+    background-color: rgb(0, 26, 255);
+    border: 2px solid black;
+   margin: 5px;
+   }
+   .caja8{
+    background-color: rgb(147, 72, 245);
+    border: 2px solid black;
+   margin: 5px;
+   }
+   .caja9{
+    background-color: #ff00ea;
+    border: 2px solid black;
+    margin: 5px;
+   }
+   *{
+    margin: 5px;
+   
+   }
+   
+.box3{
+    display: grid;
+    grid-template-columns: 769px 769px 769px;
+    grid-template-rows: 321px 321px 321px;
+  flex-direction: column-reverse;
+    
+  
+    
+}
+.caja10{
+        background-color: blueviolet;
+    border: 2px solid black;
+  
+}
+.caja11{
+    background-color:  chartreuse;
+    border: 2px solid black;
+   
+}
+.caja12{
+    background-color:  deepskyblue;
+    border: 2px solid black;
+  
+}
+.caja13{
+    background-color:rgb(255, 145, 0); ;
+    border: 2px solid black;
+   
+}
+.caja14{
+    background-color:  #4e0342;
+    border: 2px solid black;
+   
+}
+.caja15{
+    background-color:  rgb(208, 255, 0);
+    border: 2px solid black;
+  
+}
+.caja16{
+    background-color:rgb(0, 26, 255);
+    border: 2px solid black;
+   
+}
+.caja17{
+    background-color: rgb(147, 72, 245);
+    border: 2px solid black;
+  
+}
+.caja18{
+    background-color:#ff00ea;
+    border: 2px solid black;
+   
+}
